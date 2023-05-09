@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @badihaki. Just call me Haki.
 - 👀 I’m interested in web and game development
-- 🌱 I’m prficient in CSS, Javascript HTML, Ruby on Rails, Postgres, Node.JS, SQL, and C#
-- 💞️ I’m looking to work on interactive user experiences
+- 🌱 I’m prficient in CSS, Javascript HTML, Ruby on Rails, React, Postgres, Node.JS, SQL, C# and many more
+- 💞️ I’m looking to work on interactive user experiences. I'm constantly looking to level-up my skills!
 - 📫 How to reach me: jojackblack@gmail.com | or | LinkedIn @ https://www.linkedin.com/in/badi-haki-martin-565476145/
 
 <!---
