@@ -1,5 +1,6 @@
 Hey! My name is Badi-Haki Martin, but my friends just call me Haki. I'm a Flatiron Grad where I specialized in web development with Ruby on Rails, JavaScript and React. I am previously self-taught in C#, HTML and CSS.
 <br />
+<br />
 I love to create video games and rich web apps. Right now, I'm working on a deckbuilding action game and a web app to store and view recipes from individual users for various baked goods.
 <br />
 <br />
