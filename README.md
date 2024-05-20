@@ -1,4 +1,4 @@
-Hey, it's Xer0, or Haki, whatevs.
+Hey, it's Haki, call me Xer0.
 <br /><br />
 This is my Gamedev account for game jams, hackathons, personal projects, whatever
 <br />
