@@ -1,7 +1,6 @@
-Hey! My name is Badi-Haki Martin, but my friends just call me Haki. I'm a Flatiron Grad where I specialized in web development with Ruby on Rails, JavaScript and React. I am previously self-taught in C#, HTML and CSS.
-<br />
-<br />
-I love to create video games and rich web apps. Right now, I'm working on a deckbuilding action game and a web app to store and view recipes from individual users for various baked goods.
+Hey, it's Xer0, or Haki, whatevs.
+<br /><br />
+This is my Gamedev account for game jams, hackathons, personal projects, whatever
 <br />
 <br />
 [![Haki's GitHub stats](https://github-readme-stats.vercel.app/api?username=badihaki&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
