@@ -1,23 +1,3 @@
-ProfileMe.dev
-
-Introduction
-Skills
-Socials
-Badges
-Support
-
-    Go home
-
-© 2025 Dan Cranney
-Follow me
-|
-Buy Me a Coffee
-Support
-
-Make it easy for people using your products to support you or give donations.
-buymeacoffeeBuy Me a Coffee:
-kofiKo-fi:
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Badi-Haki Martin
 ========================================================================================================================================
 
@@ -32,6 +12,10 @@ I'm a full-stack software engineer (and game developer). I started coding back i
 *   🚀  I'm currently working on [Todo-Gachii, a Tomogachii/todo-app hybrid developed in Next.js](http://github.com/badihaki/todo-tomogachi)
 *   🧠  I'm learning Prisma ORM, PostgreSQL, and the newest React techniques
 *   ⚡  Open to work!!
+
+<br />
+[![Haki's GitHub stats](https://github-readme-stats.vercel.app/api?username=badihaki&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 
 ### Skills 
 <p align="left">
